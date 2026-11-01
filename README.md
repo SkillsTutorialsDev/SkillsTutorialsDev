@@ -4,11 +4,12 @@
 
 I'm a software developer with **6+ years of experience** building web-based applications using Microsoft technologies.
 
-- 💻 Experienced in C#, ASP.NET Core, ASP.NET MVC, Web API, Angular and SQL Server.
+- 💻 Experienced in C#, .NET, ASP.NET Core, ASP.NET MVC, Web API, Angular and SQL Server.
 - 🏗️ Interested in software architecture, scalable backend systems and clean code.
-- 🔐 Exploring authentication, authorization, API security and system design.
-- 🤖 Currently expanding my knowledge of Python, Machine Learning, Generative AI, RAG, Vector Databases and Agentic AI.
-- 🚀 Passionate about learning new technologies and building practical solutions.
+- 🔐 Experienced in implementing authentication, authorization, API security and application-level business logic.
+- 🤖 Exploring AI/ML concepts and their practical applications within the .NET ecosystem.
+- 🧠 Interested in integrating Machine Learning, LLMs, RAG and Generative AI capabilities into .NET applications.
+- 🚀 Passionate about learning new technologies, solving engineering problems and building practical solutions.
 
 ### 🛠️ Tech Stack
 
@@ -18,7 +19,7 @@ I'm a software developer with **6+ years of experience** building web-based appl
 
 **Database:** Microsoft SQL Server, T-SQL, Stored Procedures
 
-**AI/ML:** Python, FastAPI, ML.NET, RAG, LangChain, Vector Databases
+**AI/ML & Integration:** ML.NET, ONNX, LLM Integration, RAG, Vector Databases, Semantic Search
 
 **Tools & Platforms:** Visual Studio, VS Code, Git, GitHub, Azure
 
@@ -26,16 +27,16 @@ I'm a software developer with **6+ years of experience** building web-based appl
 
 - Advanced ASP.NET Core and System Design
 - Microservices and Distributed Systems
-- Python and Machine Learning
-- Generative AI, RAG and Agentic AI
+- AI/ML integration with .NET applications
+- Generative AI, RAG and LLM-powered applications
+- Vector Databases and Semantic Search
 
 ### 💡 Interests
 
-Software Engineering • AI/ML • Technology • Physics • Philosophy • Consciousness
+Software Engineering • .NET Ecosystem • AI/ML • System Design • Physics • Philosophy • Consciousness
 
 ### 🤝 Connect & Collaborate
 
-I enjoy exploring new technologies, solving engineering problems and sharing knowledge with the developer community.
+I enjoy exploring technology, understanding how things work behind the scenes, solving engineering challenges and sharing knowledge with the developer community.
 
-**Keep Learning. Keep Building. Keep Exploring. 🚀**
-
+**Keep Learning. Keep Building. Keep Exploring. **
